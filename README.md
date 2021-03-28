@@ -1,1 +1,1 @@
-# amlalres.github.io
+# amlalres.github.io/lab
